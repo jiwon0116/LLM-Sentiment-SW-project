@@ -1,6 +1,12 @@
-# LLM-Sentiment
+# LLM-Sentiment-SW-Project
 
-This repo contains the data and code for our paper "[Sentiment Analysis in the Era of Large Language Models: A Reality Check](https://arxiv.org/abs/2305.15005)".
+This repository is a fork of https://github.com/DAMO-NLP-SG/LLM-Sentiment. Used for a research paper: 
+"[Sentiment Analysis in the Era of Large Language Models: A Reality Check](https://arxiv.org/abs/2305.15005)".
+
+The goal of this project is to get this codebase running on my local machine. And if there is room for any improvement, idenfify & implement some of these improvements.
+
+## Python
+This project uses dependencies supporting Python version <=3.9. Therefore this project uses Python 3.9.
 
 ## Usage
 0. fill in your OpenAI api key in the bash files under `script` folder. For example:
